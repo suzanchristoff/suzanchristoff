@@ -1,4 +1,4 @@
-- 👋 Meu nome é Suzan e atualmente moro em Santa Catarina, Brasil
+- 👋 Meu nome é Suzan e moro em Santa Catarina, Brasil
 - 👀 Tenho interesse na área de tecnologia
 - 🌱 Atualmente tenho estudado análise de dados
 - 💞️ Estou procurando colaborar em projetos de dados Python
