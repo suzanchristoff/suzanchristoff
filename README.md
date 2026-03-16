@@ -3,7 +3,7 @@
 - 👀 Tenho interesse na área de tecnologia
 - 🌱 Atualmente tenho estudado análise de dados
 - 🔭 Estou à procura da minha primeira oportunidade de emprego como analista de dados
-- 📫 Entre em contato comigo: suprofissional@gmail.com, https://www.linkedin.com/in/suzanchristoff
+- 📫 Entre em contato comigo: suzan.christoff@gmail.com, https://www.linkedin.com/in/suzanchristoff
 
  **Minhas habilidades:**
 
